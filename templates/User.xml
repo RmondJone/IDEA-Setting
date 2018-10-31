@@ -20,4 +20,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="single" value="private static $name$ instance;&#10;&#10;public static $name$ getInstance() {&#10;    synchronized ($name$.class) {&#10;        if (instance == null) {&#10;            instance = new $name$();&#10;        }&#10;        return instance;&#10;    }&#10;}" description="单例构造函数" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
