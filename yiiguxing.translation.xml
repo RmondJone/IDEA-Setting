@@ -1,7 +1,7 @@
 <application>
   <component name="AppStorage">
     <option name="lastLanguages">
-      <language-pair target="CHINESE" />
+      <language-pair target="ENGLISH" />
     </option>
     <histories>
       <item value="菜单" />
@@ -12,7 +12,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="5" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
