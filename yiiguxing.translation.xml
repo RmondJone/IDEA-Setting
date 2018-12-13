@@ -4,6 +4,7 @@
       <language-pair target="ENGLISH" />
     </option>
     <histories>
+      <item value="常量" />
       <item value="菜单" />
       <item value="准备" />
       <item value="点击生成图片" />
