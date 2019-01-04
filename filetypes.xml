@@ -5,6 +5,7 @@
       <mapping pattern="blacklist" type="PLAIN_TEXT" />
       <mapping pattern="1111,txt" type="PLAIN_TEXT" />
       <mapping pattern="meta-index" type="PLAIN_TEXT" />
+      <mapping pattern="channel" type="PLAIN_TEXT" />
       <mapping pattern="tzmappings" type="PLAIN_TEXT" />
       <mapping pattern="classlist" type="PLAIN_TEXT" />
       <mapping ext="access" type="PLAIN_TEXT" />
