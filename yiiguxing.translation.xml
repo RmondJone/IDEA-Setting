@@ -4,6 +4,7 @@
       <language-pair target="ENGLISH" />
     </option>
     <histories>
+      <item value="有关详细信息, 请使用" />
       <item value="person" />
       <item value="会员中心" />
       <item value="STARTTIME" />
