@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Verifying Checksum" />
       <item value="Directory containing the the build context. This is typically the directory that contains&#10;your Dockerfile." />
       <item value="Unable to connect to: redis://192.168.56.89:26379" />
       <item value=" org.redisson.connection.Sentinel Connection Manager#&lt;init&gt; " />
@@ -24,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
