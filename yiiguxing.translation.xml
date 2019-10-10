@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to create usr/lib/libmenuw.so.6.1: No error information" />
       <item value="git仓库地址不存在,使用默认" />
       <item value="This is usually caused by another repository pushing" />
       <item value="Verifying Checksum" />
@@ -28,7 +29,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="ENGLISH" value="21" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
