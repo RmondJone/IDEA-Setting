@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="拉取代码" />
       <item value="查看输出目录" />
       <item value="启动应用" />
       <item value="打包项目" />
-      <item value="拉取代码" />
       <item value="Failed to create usr/lib/libmenuw.so.6.1: No error information" />
       <item value="git仓库地址不存在,使用默认" />
       <item value="This is usually caused by another repository pushing" />
@@ -32,8 +32,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="30" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
